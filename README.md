@@ -1,1 +1,1 @@
-# Antifriction Trackpad
+# Antifriction Trackpad (prototype)
